@@ -19,7 +19,13 @@
         <div id="game">
             <div id="menu">
                 <div id="menu-heading">WATER SORT PUZZLE</div>
-                <div id="cr1" class="credit">Developed by Soumavo Dey</div>
+                <div id="cr1" class="credit">Change your Language</div>
+                <select id="languageSelect">
+                    <option value="en">English</option>
+                    <option value="es">Spanish</option>
+                    <option value="fr">French</option>
+                </select>
+                <button id="translateButton">Translate</button>
                 <h3 style="font-family: 'New Tegomin', serif;">Choose Difficulty Level: </h3>
                 <br>
                 <button class="btn" id="easy" onclick="OpenLevel(0);">
@@ -266,20 +272,9 @@
             <div id="rules-page">
                 <div id="rules">
                     <div id="rules-heading">RULES</div>
-                    <div id="rules-text">There will be some glasses (or test tubes), your task is to
-                        put
-                        the
-                        liquids with same color together! You can transfer different colored water from one glass to
-                        another
-                        only if the other glass is empty or its top most layer of water is of the same color as that
-                        of
-                        the one
-                        from which water is to be taken. The glass you have selected will be highlighted to prevent
-                        confusion.
-                        Restart button will take you back to the beginning of the level, also every time you open
-                        the
-                        same level
-                        the water will be shuffled.
+                    <div id="rules-text">There will be some glasses (or test tubes), your task is to put the liquids with same color together! You can transfer different colored water from one glass to another only if the other glass is empty or its top most layer of water
+                        is of the same color as that of the one from which water is to be taken. The glass you have selected will be highlighted to prevent confusion. Restart button will take you back to the beginning of the level, also every time you
+                        open the same level the water will be shuffled.
                     </div>
                     <button class="btn" id="back" onclick="HideRules();">
                         <span>BACK</span>

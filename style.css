@@ -243,7 +243,7 @@
 #rules-btn {
     position: fixed;
     left: calc(100vw - 200px);
-    top: calc(100vh - 50px);
+    top: calc(80vh - 50px);
     height: 50px;
     width: 200px;
     background-color: lightgreen;

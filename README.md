@@ -122,6 +122,18 @@ Azure AI Translator
 Defoult page
 ![image](https://github.com/Sunny456123/liquiidsort456/assets/157024926/688a7b9e-ac86-4ac0-aa47-2ee953bc46b6)
 
+After choosing Spanish Language
+![image](https://github.com/Sunny456123/liquiidsort456/assets/157024926/4988e6cf-d511-4cc9-85a3-12c70ac64218)
+
+After choosing French Language
+![image](https://github.com/Sunny456123/liquiidsort456/assets/157024926/361bc4c7-a180-4b5b-9260-1c092e544ac9)
+
+Rules page
+![image](https://github.com/Sunny456123/liquiidsort456/assets/157024926/95e010be-51ee-4364-9c94-2f112126a2c4)
+
+
+
+
 Screenshots of levels
 ![image](https://github.com/Sunny456123/liquiidsort456/assets/157024926/397d9f52-a646-4d64-b808-5a9358aef0ea)
 ![image](https://github.com/Sunny456123/liquiidsort456/assets/157024926/a3744eaf-3202-4c47-8cf6-d70e8eb93d61)

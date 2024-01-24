@@ -192,7 +192,7 @@ function displayTranslatedMessage(messageKey) {
 document.getElementById('translateButton').addEventListener('click', translatePage);
 
 function translatePage() {
-    const subscriptionKey = 'bc57360077d24293a0a52ca7c030a0c6';
+    const subscriptionKey = 'c0be2808c37040b8b5ab4c6c16a83c4b';
     const languageSelect = document.getElementById('languageSelect');
     const targetLanguage = languageSelect.value;
 
